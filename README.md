@@ -1,21 +1,48 @@
-<<<<<<< HEAD
-# React + Vite
+ToolVerse — Student Utility & Free Online Tools
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ToolVerse is a modern web application built to help students, developers, and everyday users with useful online tools in one place. The platform provides fast, responsive, and easy-to-use utilities such as CGPA calculators, attendance trackers, QR code generators, password generators, JSON formatters, BMI calculators, word counters, image compressors, and more.
 
-Currently, two official plugins are available:
+The project focuses on clean UI/UX, performance, accessibility, and SEO optimization while offering practical tools that solve real-world student and productivity problems.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Features
+CGPA & SGPA Calculator
+Attendance Calculator
+QR Code Generator
+Password Generator
+JSON Formatter & Minifier
+Word & Character Counter
+BMI Calculator
+Image Compressor
+Responsive Modern UI
+Dark/Light Mode
+Search & Filter Tools
+SEO-Friendly Structure
+Blog Section for Content & SEO
+Smooth Animations & Glassmorphism Design
+Tech Stack
+React.js
+Tailwind CSS
+JavaScript
+React Router
+Lucide React Icons
+Purpose
 
-## React Compiler
+The goal of ToolVerse is to create a free and accessible platform that improves student productivity and provides essential utilities in a simple and user-friendly way.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Future Improvements
+AI-powered tools
+Authentication system
+Save recent tools
+Cloud storage integration
+More developer & student utilities
+Progressive Web App (PWA)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# toolverse
-ToolVerse is a modern student utility and online tools platform built with React and Tailwind CSS. It provides useful tools like CGPA calculator, attendance tracker, QR generator, password generator, JSON formatter, BMI calculator, and more with a responsive, fast, and user-friendly UI.
->>>>>>> b00fb2c03a419f26c12bb653b4db437207d88044
+
+## 🚀 Live Preview
+
+Experience ToolVerse — a modern collection of free student and developer utilities designed to boost productivity with a fast, clean, and responsive interface.
+
+🔗 https://toolverse-black.vercel.app/
+
+From CGPA calculators to QR generators, ToolVerse brings essential everyday tools together in one powerful platform.
